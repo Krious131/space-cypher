@@ -1,0 +1,8 @@
+{
+  "appId": "edu.orbitalcipher.ar",
+  "appName": "Space Cypher",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  }
+}
